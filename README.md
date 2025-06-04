@@ -1,4 +1,4 @@
-# 🧠✈️ AI Travel Itinerary Planner (CrewAI + Streamlit)
+# ✈️ AI Travel Itinerary Planner (CrewAI + Streamlit)
 
 A smart, AI-powered travel assistant that **automatically generates personalized travel itineraries** based on your **destination**, **budget**, and **interests**.  
 Built using [CrewAI](https://github.com/joaomdmoura/crewAI) for multi-agent orchestration and [Streamlit](https://streamlit.io/) for a user-friendly interface.
@@ -121,3 +121,5 @@ Streamlit not responding	Ensure you're using streamlit run
 🔗 [GitHub](https://github.com/aniketjawale-github)  
 🔗 [LinkedIn](https://www.linkedin.com/in/aniketjawalee/)  
 📧 aniketajawale@gmail.com  
+
+> Thank you for checking out **AI Travel Itinerary Planner (CrewAI)**!  
